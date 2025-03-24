@@ -1,1 +1,1 @@
-export const env={"WEB_DEFAULT_API":"https://jx-api.xiaohan-kaka.me/","WEB_HOST":"jx.xiaohan-kaka.me"}
+export const env={"WEB_DEFAULT_API":"https://jx-api.xiaohan-kaka.top/","WEB_HOST":"jx.xiaohan-kaka.me"}

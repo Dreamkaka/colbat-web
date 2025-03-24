@@ -1,0 +1,1 @@
+import{h as e}from"./scheduler.y4uHs2UB.js";import{s as r}from"./settings.RqfMgPN1.js";import{v as s,d as o}from"./env.Da7v06pw.js";const g=()=>{const n=e(r).processing,t=n.customInstanceURL;return n.enableCustomInstances&&t.length>0?new URL(t).origin:s.DEFAULT_API?new URL(s.DEFAULT_API).origin:new URL(o).origin};export{g as currentApiURL};
